@@ -1,0 +1,4 @@
+services:
+#    inwebo_bookmarks.example:
+#        class: Inwebo\BookmarksBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

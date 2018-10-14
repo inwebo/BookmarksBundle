@@ -1,0 +1,3 @@
+inwebo_bookmarks_homepage:
+    path:     /
+    defaults: { _controller: InweboBookmarksBundle:Default:index }
