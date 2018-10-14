@@ -1,6 +1,6 @@
 <?php
 
-namespace Inwebo\BookmarksBundle_\Controller;
+namespace Inwebo\BookmarksBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 

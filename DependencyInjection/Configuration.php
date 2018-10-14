@@ -1,6 +1,6 @@
 <?php
 
-namespace Inwebo\BookmarksBundle_\DependencyInjection;
+namespace Inwebo\BookmarksBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

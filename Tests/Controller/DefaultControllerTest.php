@@ -1,6 +1,6 @@
 <?php
 
-namespace Inwebo\BookmarksBundle_\Tests\Controller;
+namespace Inwebo\BookmarksBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

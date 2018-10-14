@@ -1,6 +1,6 @@
 <?php
 
-namespace Inwebo\BookmarksBundle_\DependencyInjection;
+namespace Inwebo\BookmarksBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

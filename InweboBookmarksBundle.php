@@ -1,6 +1,6 @@
 <?php
 
-namespace Inwebo\BookmarksBundle_;
+namespace Inwebo\BookmarksBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
